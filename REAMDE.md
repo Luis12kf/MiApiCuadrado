@@ -1,0 +1,1 @@
+Cambios actuales del 5/9/2026 los cambios que se hicero no se refleja en el programa porque ya esta programado en dapper lo unico que cambio es que la pagina esta en azure y se pude aceder a ella y igual para somee. podata toda la evidencia esta en la capeta de caturas
