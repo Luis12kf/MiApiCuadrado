@@ -1,3 +1,4 @@
 https://github.com/Luis12kf/MiApiCuadrado
 http://pruebaestudiante.somee.com/api/estudiantes
+https://pruebaestudiante-eah6f6eza6dpbrby.westus-01.azurewebsites.net/api/estudiantes
 posdata hay captura de los programa funcionando. 
